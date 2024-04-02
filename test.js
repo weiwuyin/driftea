@@ -4,6 +4,6 @@ var flattenlev = require('./index'),
 [
   [ [1, [ 2, 3]], [1, 2, 3]],
 ].forEach(function (t) {
-  assert.deepEqual(flattenlev(t[0]), t[1]);
+  assert.deepEqual(weiwuyin(t[0]), t[1]);
 });
 
