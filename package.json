@@ -1,5 +1,5 @@
 {
-  "name": "flattenlev",
+  "name": "weiwuyin",
   "version": "1.0.5",
   "description": "This is a function to flatten arrays e.g. flattenlev([1,[3]]) returns [1, 3] ",
   "main": "index.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/kostia-lev/flattenlev"
+    "url": "https://github.com/kostia-lev/weiwuyin"
   },
   "keywords": [
     "flatten",
@@ -19,7 +19,7 @@
   "author": "lev",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/kostia-lev/flattenlev/issues"
+    "url": "https://github.com/kostia-lev/weiwuyin/issues"
   },
-  "homepage": "https://github.com/kostia-lev/flattenlev#readme"
+  "homepage": "https://github.com/kostia-lev/weiwuyin#readme"
 }
